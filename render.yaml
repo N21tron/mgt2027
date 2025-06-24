@@ -1,0 +1,7 @@
+```yaml
+services:
+  - type: web
+    name: rocketchat
+    env: docker
+    dockerfilePath: ./Dockerfile
+```
